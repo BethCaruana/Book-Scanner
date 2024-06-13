@@ -1,4 +1,4 @@
-#Book Scanner
+# Book-Scanner
 
 How to run the full program:
 
