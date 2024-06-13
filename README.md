@@ -1,4 +1,5 @@
 #Book Scanner
+
 How to run the full program:
 
 python text_scanner.py
